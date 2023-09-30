@@ -1,0 +1,33 @@
+.almegadeal-container{
+    width:100%;
+    background-color: #fdfbb8;
+    height: auto;
+    padding: 20px 0px;
+}
+.single-megadeal-box{
+    margin:10px;
+    max-width:100%;
+    height:auto;
+    border-radius: 8px;
+
+}
+.megadeal-content-box{
+    width: 270px;
+    background-color: #eceef4; 
+}
+.megadeal-content-box p{
+    margin-top: 5%;
+    padding-left: 20px;
+}
+
+.telivision-deal-title{
+    padding-left: 20px;
+    width: 60%;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px 0px 10px 0px;
+}
+.single-megadeal-box img{
+    width:200px;
+    height: 150px;
+}
